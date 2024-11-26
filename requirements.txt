@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+temporaldata
+torch
+lightning
+hydra-core
+
+[dev]
+ipykernel
+debugpy

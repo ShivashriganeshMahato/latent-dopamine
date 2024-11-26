@@ -1,0 +1,7 @@
+data_root: /home/hice1/smahato7/scratch/dop/data/
+batch_size: 32
+max_epochs: 100
+
+input_size: 224
+hidden_size: 512
+latent_size: 128
