@@ -6,7 +6,10 @@ temporaldata
 torch
 lightning
 hydra-core
+einops
+scikit-learn
+torcheval
 
-[dev]
+# [dev]
 ipykernel
 debugpy
