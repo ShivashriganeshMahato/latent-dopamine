@@ -2,3 +2,4 @@ lightning_logs/
 outputs/
 venv/
 __pycache__/
+output/
